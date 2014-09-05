@@ -17,4 +17,4 @@ given the feature with format `value f1:v1 f2:v2 ...`, return the split result, 
 then the result could be used in logistic regression with github.com/xlhector/hector
 
 ## USAGE
-type <./feature_selection -help> to get usage
+type **./feature_selection -help** to get usage
